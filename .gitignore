@@ -1,0 +1,14 @@
+# Maven build
+target/
+
+# Logs
+*.log
+
+# Generated transaction data
+transactions.txt
+
+# VS Code
+.vscode/
+
+# Java compiled files
+*.class
